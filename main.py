@@ -9,7 +9,5 @@ plt.grid(100)
 plt.title("Covid Mortaility")
 plt.xlabel("Number of Death")
 plt.ylabel("Deaths confirmed")
-
-
 plt.show()
 
